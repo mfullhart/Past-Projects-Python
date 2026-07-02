@@ -1,0 +1,51 @@
+﻿Size: 100
+  QuickSortRecursive: 0s
+  QuickSortIterative: 0s
+  InsertionSort: 0s
+  SortInts: 0s
+----------------------------------
+Size: 10100
+  QuickSortRecursive: 511.34µs
+  QuickSortIterative: 511.04µs
+  SortInts: 615.22µs
+----------------------------------
+Size: 20100
+  QuickSortRecursive: 1.22456ms
+  QuickSortIterative: 1.12264ms
+  SortInts: 1.42778ms
+----------------------------------
+Size: 30100
+  QuickSortRecursive: 2.01646ms
+  QuickSortIterative: 2.01806ms
+  SortInts: 1.9111ms
+----------------------------------
+Size: 40100
+  QuickSortRecursive: 2.62186ms
+  QuickSortIterative: 2.30948ms
+  SortInts: 2.71048ms
+----------------------------------
+Size: 50100
+  QuickSortRecursive: 3.31922ms
+  QuickSortIterative: 3.01246ms
+  SortInts: 3.23686ms
+----------------------------------
+Size: 60100
+  QuickSortRecursive: 3.8184ms
+  QuickSortIterative: 3.81604ms
+  SortInts: 4.10898ms
+----------------------------------
+Size: 70100
+  QuickSortRecursive: 4.61822ms
+  QuickSortIterative: 4.1259ms
+  SortInts: 4.8045ms
+----------------------------------
+Size: 80100
+  QuickSortRecursive: 5.53976ms
+  QuickSortIterative: 4.91958ms
+  SortInts: 5.40022ms
+----------------------------------
+Size: 90100
+  QuickSortRecursive: 5.93004ms
+  QuickSortIterative: 5.31724ms
+  SortInts: 6.00154ms
+----------------------------------
